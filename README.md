@@ -1,5 +1,5 @@
 # XXE-SAXReader
-本次利用的XML注入是关于SAXReader<=v.2.1.4版本
+本次利用的XML注入是关于SAXReader<=v.2.1.0版本
 核心就在于限制XML注入的setFeature顺序问题
 
 focus:
